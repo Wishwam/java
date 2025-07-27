@@ -1,20 +1,20 @@
-class Test{
-    public static void main(String[]args){
-        System.out.println("hello java");
-    byte a;
-        a=127;
-        System.out.println(a);
-    double d=(float)55.65;
-    System.out.println(d);
-// typecasting
-    byte q=45;
-    double w;
-    w = q;
-    System.out.println(w);
+// class Test{
+//     public static void main(String[]args){
+//         System.out.println("hello java");
+//     byte a;
+//         a=127;
+//         System.out.println(a);
+//     double d=(float)55.65;
+//     System.out.println(d);
+// // typecasting
+//     byte q=45;
+//     double w;
+//     w = q;
+//     System.out.println(w);
 
-    }
-}
-
+//     }
+// }
+import java.util.Scanner;   
 class demo{
     public static void main(String[]args){
         String s1= "java";
@@ -32,7 +32,6 @@ class demo{
             System.out.println("references are equal");
         }
         else {
-            System.out.println("References are not equal");
-        }
-    }
-}
+            System.out.println("References are not equal");}
+
+    }}
